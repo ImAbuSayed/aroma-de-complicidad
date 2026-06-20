@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aroma de complicidad, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Aroma de complicidad, Vol. 2** (aroma-de-complicidad-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T22:10:19.179982 | `v1` | `1a2b528333c9fe974f0ffd91177843752df6f977333a1a1a28fb3d4bcece31e9` | `ac6a3a38fee086ff438643d6767239815b78baa2afc4093afcc482a72df4fbca` | `2026-06-20_aroma-de-complicidad-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -1,4 +1,4 @@
-# Aroma de complicidad
+# Aroma de complicidad, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Aroma de complicidad |
+| **Title** | Aroma de complicidad, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aroma-de-complicidad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Aroma de complicidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-complicidad/) |
+| **Get License** | [Get a Licensing Quote for Aroma de complicidad, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-complicidad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 0a5704109dc2c7c2428b38c99a64eae62121dd74
+> Esta noche la calle respira tu nombre
+> You know I got the flavor, mami, soy tu hombre
+> De Madrid a la luna, cruzando la ciudad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1a2b528333c9fe974f0ffd91177843752df6f977333a1a1a28fb3d4bcece31e9` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
